@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "lodash": "^3.10.1",
-    "react-native": "^0.11.4",
-    "react-native-android-vitamio": "^1.0.3"
+    "react-native": "^0.18.0",
+    "react-native-android-vitamio": "^4.1.0"
   },
   "author": {
     "name": "Yevgen Safronov"
