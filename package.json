@@ -1,6 +1,6 @@
 {
   "name": "react-native-vitamio-demo",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A Demo Android app for React Native Vitamio component",
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"

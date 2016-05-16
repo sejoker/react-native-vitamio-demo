@@ -2,6 +2,8 @@
 
 A Demo Android app for [React Native Vitamio component](https://github.com/sejoker/react-native-android-vitamio).
 
+Supports React Native up to 0.21.
+
 ### Installation 
 
 ```bash
